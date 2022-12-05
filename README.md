@@ -1,8 +1,35 @@
 # Tezons
+[![](https://img.shields.io/badge/license-MIT-brightgreen)](LICENSE)
+
+### Summary
 Royalty-free open standards for gaming, 3D graphics, Virtual and Augmented Reality, Machine Learning, and Vision Processing
 
-### Vision
-Tezons is an open, non-profit, member-driven consortium of organizations developing, publishing and maintaining royalty-free interoperability standards for gaming, 3D graphics, virtual reality, augmented reality, vision acceleration and machine learning on Tezos.
+### Concept
+We created the most flexiable and re-usable escrow system that gives gamers an expereince they expect. Flexscrow provides the ideal solution for many types of games - It enables rewards in single-player, multi-player, MMOs and even special cases like horse betting.
+
+### Live Demo
+
+https://tezos-homebase.io/explorer/dao/KT1Gvo4HESyzqYUNV3FTEk7sp7rh2HBZz2Sa/overview
+
+This is the implemenatation of the Tezons DAO on testnet using [Homebase & BaseDAO](https://github.com/tezos-commons/baseDAO) By Tezos Commons
+
+### Technology Stack
+
+Our choice to use [Homebase & BaseDAO](https://github.com/tezos-commons/baseDAO) By Tezos Commons as the voting and UI system let's us levearge the most robust and well devloped DAO system on Tezos. Tezos Commons has pledged ongoing technical support as well as the development of custom features.  
+
+### UI and UX
+
+By leveraging [Homebase](https://github.com/tezos-commons/baseDAO), we're able to implement an optimized clean UI with a very refined UX. 
+
+### White Paper
+
+https://blockchain-alchemy.gitbook.io/flexscrow-whitepaper/
+
+### Smart Contracts
+
+DAO Contract on Ghostnet Testnet: `KT1Gvo4HESyzqYUNV3FTEk7sp7rh2HBZz2Sa`
+Voting Token *Tezons* on Ghostnet Testnet: `KT1Tm6tvgoWttT3tayTNZjWR1K9XnUPG4J8x`
+
 
 ### Voting Process
 ![image](https://user-images.githubusercontent.com/2120817/205527493-297be29c-00fd-4113-8863-d0c2608f2052.png)
