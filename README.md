@@ -41,7 +41,7 @@ Member Organizations create proposals for new or updated standards. All members 
 - OpenXR by [Khronos Group](https://www.khronos.org/)
 - PDF by [PDFA](https://www.pdfa.org/)
 
-### Examples within Tezos
+### Examples of Standards within Tezos (Will be the first Proposals of Tezons)
 - AR OBKKTS on TEIA by [Nikita FREEBOID](https://www.freeboid.com/xrobjkts-at-hen/)
 - VR OBKKTS on HEN by [Nikita FREEBOID](https://www.freeboid.com/vr-objkts-for-hen/)
 
