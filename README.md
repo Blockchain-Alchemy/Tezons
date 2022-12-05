@@ -28,6 +28,7 @@ https://blockchain-alchemy.gitbook.io/flexscrow-whitepaper/
 ### Smart Contracts
 
 DAO Contract on Ghostnet Testnet: `KT1Gvo4HESyzqYUNV3FTEk7sp7rh2HBZz2Sa`
+
 Voting Token *Tezons* on Ghostnet Testnet: `KT1Tm6tvgoWttT3tayTNZjWR1K9XnUPG4J8x`
 
 
