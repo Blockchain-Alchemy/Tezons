@@ -15,7 +15,7 @@ This is the implemenatation of the Tezons DAO on testnet using [Homebase & BaseD
 
 ### Technology Stack
 
-Our choice to use [Homebase & BaseDAO](https://github.com/tezos-commons/baseDAO) By Tezos Commons as the voting and UI system let's us levearge the most robust and well devloped DAO system on Tezos. Tezos Commons has pledged ongoing technical support as well as the development of custom features.  
+Our choice to use [Homebase & BaseDAO](https://github.com/tezos-commons/baseDAO) By Tezos Commons as the voting and UI system let's us levearge the most robust and well devloped DAO system on Tezos. Tezos Commons has pledged ongoing technical support as well as the development of custom features for Tezons.  
 
 ### UI and UX
 
