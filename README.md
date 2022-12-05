@@ -4,8 +4,8 @@
 ### Summary
 Royalty-free open standards for gaming, 3D graphics, Virtual and Augmented Reality, Machine Learning, and Vision Processing
 
-### Concept
-We created the most flexiable and re-usable escrow system that gives gamers an expereince they expect. Flexscrow provides the ideal solution for many types of games - It enables rewards in single-player, multi-player, MMOs and even special cases like horse betting.
+## Vision
+Tezons is an open, non-profit, member-driven consortium of organizations developing, publishing and maintaining royalty-free interoperability standards for gaming, 3D graphics, virtual reality, augmented reality, vision acceleration and machine learning on Tezos.
 
 ### Live Demo
 
@@ -30,7 +30,6 @@ https://blockchain-alchemy.gitbook.io/flexscrow-whitepaper/
 DAO Contract on Ghostnet Testnet: `KT1Gvo4HESyzqYUNV3FTEk7sp7rh2HBZz2Sa`
 
 Voting Token *Tezons* on Ghostnet Testnet: `KT1Tm6tvgoWttT3tayTNZjWR1K9XnUPG4J8x`
-
 
 ### Voting Process
 ![image](https://user-images.githubusercontent.com/2120817/205527493-297be29c-00fd-4113-8863-d0c2608f2052.png)
