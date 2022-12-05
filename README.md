@@ -17,6 +17,12 @@ https://tezos-homebase.io/explorer/dao/KT1Gvo4HESyzqYUNV3FTEk7sp7rh2HBZz2Sa/over
 
 This is the implemenatation of the Tezons DAO on testnet using [Homebase & BaseDAO](https://github.com/tezos-commons/baseDAO) By Tezos Commons
 
+### Benefits of Interoperability Standards
+1. Having well-researched, well-maintained modern standards will serve two major purposes:
+Allow the ecosystem of existing game developers on Tezos to have a powerful resource in best practices for creating, storing, and using complex assets. By becoming members, game developers and studios can guide the creation of standards to the needs of the industry.
+
+2. Give new game developers on Tezos a faster onboarding, with better documentation along with pre-built tools and examples to get started quickly while embracing best practices. 
+
 ### Technology Stack
 
 Our choice to use [Homebase & BaseDAO](https://github.com/tezos-commons/baseDAO) By Tezos Commons as the voting and UI system let's us levearge the most robust and well devloped DAO system on Tezos. Tezos Commons has pledged ongoing technical support as well as the development of custom features for Tezons.  
