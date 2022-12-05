@@ -7,6 +7,10 @@ Royalty-free open standards for gaming, 3D graphics, Virtual and Augmented Reali
 ## Vision
 Tezons is an open, non-profit, member-driven consortium of organizations developing, publishing and maintaining royalty-free interoperability standards for gaming, 3D graphics, virtual reality, augmented reality, vision acceleration and machine learning on Tezos.
 
+### White Paper
+
+https://blockchain-alchemy.gitbook.io/tezons-whitepaper/
+
 ### Live Demo
 
 https://tezos-homebase.io/explorer/dao/KT1Gvo4HESyzqYUNV3FTEk7sp7rh2HBZz2Sa/overview
@@ -20,10 +24,6 @@ Our choice to use [Homebase & BaseDAO](https://github.com/tezos-commons/baseDAO)
 ### UI and UX
 
 By leveraging [Homebase](https://github.com/tezos-commons/baseDAO), we're able to implement an optimized clean UI with a very refined UX. 
-
-### White Paper
-
-https://blockchain-alchemy.gitbook.io/tezons-whitepaper/
 
 ### Smart Contracts
 
