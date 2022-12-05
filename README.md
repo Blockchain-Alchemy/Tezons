@@ -18,7 +18,7 @@ Member Organizations create proposals for new or updated standards. All members 
 - AR OBKKTS on TEIA by [Nikita FREEBOID](https://www.freeboid.com/xrobjkts-at-hen/)
 - VR OBKKTS on HEN by [Nikita FREEBOID](https://www.freeboid.com/vr-objkts-for-hen/)
 
-Nikita Khudiakov is an artist and educator in Ukraine, he has contributed to early defacto standards
+Nikita FREEBOID Khudiakov is an artist and educator in Ukraine, he has contributed to early defacto standards on Tezos through his published articles and lectures.
 
 - Augmented Reality PFP Template by [Sutu Eats Flies](https://www.sutueatsflies.com/)
 
