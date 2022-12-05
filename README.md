@@ -2,26 +2,18 @@
 [![](https://img.shields.io/badge/license-MIT-brightgreen)](LICENSE)
 ### Summary
 Royalty-free open standards for gaming, 3D graphics, Virtual and Augmented Reality, Machine Learning, and Vision Processing
+
 ![Tezons_DAO_and_Proposal_Demo](https://user-images.githubusercontent.com/2120817/205626533-cbffdbf4-8510-4d88-8b07-a531603c9882.gif)
+### Live Demo
+https://tezos-homebase.io/explorer/dao/KT1Gvo4HESyzqYUNV3FTEk7sp7rh2HBZz2Sa/overview
+
+This is the implemenatation of the Tezons DAO on testnet using [Homebase & BaseDAO](https://github.com/tezos-commons/baseDAO) By Tezos Commons
 
 ### Vision
 Tezons is an open, non-profit, member-driven consortium of organizations developing, publishing and maintaining royalty-free interoperability standards for gaming, 3D graphics, virtual reality, augmented reality, vision acceleration and machine learning on Tezos.
 
 ### White Paper
-
 https://blockchain-alchemy.gitbook.io/tezons-whitepaper/
-
-### Live Demo
-
-https://tezos-homebase.io/explorer/dao/KT1Gvo4HESyzqYUNV3FTEk7sp7rh2HBZz2Sa/overview
-
-This is the implemenatation of the Tezons DAO on testnet using [Homebase & BaseDAO](https://github.com/tezos-commons/baseDAO) By Tezos Commons
-
-### Benefits of Interoperability Standards
-1. Having well-researched, well-maintained modern standards will serve two major purposes:
-Allow the ecosystem of existing game developers on Tezos to have a powerful resource in best practices for creating, storing, and using complex assets. By becoming members, game developers and studios can guide the creation of standards to the needs of the industry.
-
-2. Give new game developers on Tezos a faster onboarding, with better documentation along with pre-built tools and examples to get started quickly while embracing best practices. 
 
 ### Technology Stack
 
