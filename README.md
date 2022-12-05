@@ -23,7 +23,7 @@ By leveraging [Homebase](https://github.com/tezos-commons/baseDAO), we're able t
 
 ### White Paper
 
-https://blockchain-alchemy.gitbook.io/flexscrow-whitepaper/
+https://blockchain-alchemy.gitbook.io/tezons-whitepaper/
 
 ### Smart Contracts
 
