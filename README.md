@@ -1,6 +1,6 @@
 # Tezons
 [![](https://img.shields.io/badge/license-MIT-brightgreen)](LICENSE)
-
+![Tezons_DAO_and_Proposal_Demo](https://user-images.githubusercontent.com/2120817/205626533-cbffdbf4-8510-4d88-8b07-a531603c9882.gif)
 ### Summary
 Royalty-free open standards for gaming, 3D graphics, Virtual and Augmented Reality, Machine Learning, and Vision Processing
 
