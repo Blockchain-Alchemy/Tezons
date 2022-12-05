@@ -40,10 +40,10 @@ Member Organizations create proposals for new or updated standards. All members 
 - PDF by [PDFA](https://www.pdfa.org/)
 
 ### Examples of Standards within Tezos (Will be the first Proposals of Tezons)
-- AR OBKKTS on TEIA by [Nikita FREEBOID](https://www.freeboid.com/xrobjkts-at-hen/)
-- VR OBKKTS on HEN by [Nikita FREEBOID](https://www.freeboid.com/vr-objkts-for-hen/)
+- [AR OBKKTS on TEIA by Nikita FREEBOID](https://www.freeboid.com/xrobjkts-at-hen/)
+- [VR OBKKTS on HEN by Nikita FREEBOID](https://www.freeboid.com/vr-objkts-for-hen/)
 
-Nikita FREEBOID Khudiakov is an artist and educator in Ukraine, he has contributed to early defacto standards on Tezos through his published articles and lectures.
+Nikita "FREEBOID" Khudiakov is an artist and educator in Ukraine, he has contributed to early defacto standards on Tezos through his published articles and lectures.
 
 - Augmented Reality PFP Template by [Sutu Eats Flies](https://www.sutueatsflies.com/)
 
