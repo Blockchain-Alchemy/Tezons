@@ -7,7 +7,7 @@ Royalty-free open standards for gaming, 3D graphics, Virtual and Augmented Reali
 ### Live Demo
 https://tezos-homebase.io/explorer/dao/KT1Gvo4HESyzqYUNV3FTEk7sp7rh2HBZz2Sa/overview
 
-This is the implemenatation of the Tezons DAO on testnet using [Homebase & BaseDAO](https://github.com/tezos-commons/baseDAO) By Tezos Commons
+This is the implementation of the Tezons DAO on testnet using [Homebase & BaseDAO](https://github.com/tezos-commons/baseDAO) By Tezos Commons
 
 ### Vision
 Tezons is an open, non-profit, member-driven consortium of organizations developing, publishing and maintaining royalty-free interoperability standards for gaming, 3D graphics, virtual reality, augmented reality, vision acceleration and machine learning on Tezos.
@@ -17,7 +17,7 @@ https://blockchain-alchemy.gitbook.io/tezons-whitepaper/
 
 ### Technology Stack
 
-Our choice to use [Homebase & BaseDAO](https://github.com/tezos-commons/baseDAO) By Tezos Commons as the voting and UI system let's us levearge the most robust and well devloped DAO system on Tezos. Tezos Commons has pledged ongoing technical support as well as the development of custom features for Tezons.  
+Our choice to use [Homebase & BaseDAO](https://github.com/tezos-commons/baseDAO) By Tezos Commons as the voting and UI system let's us leverage the most robust and well developed DAO system on Tezos. Tezos Commons has pledged ongoing technical support as well as the development of custom features for Tezons.  
 
 ### UI and UX
 
@@ -34,7 +34,7 @@ Voting Token *Tezons* on Ghostnet Testnet: `KT1Tm6tvgoWttT3tayTNZjWR1K9XnUPG4J8x
 
 Member Organizations create proposals for new or updated standards. All members vote on the proposal, if approved, the standard is published, adopted and maintained. 
 
-### Examples of Standards Ouside of Tezos
+### Examples of Standards Outside of Tezos
 - HTML & CSS by [WC3](https://www.w3.org/)
 - OpenXR by [Khronos Group](https://www.khronos.org/)
 - PDF by [PDFA](https://www.pdfa.org/)
@@ -47,7 +47,4 @@ Nikita FREEBOID Khudiakov is an artist and educator in Ukraine, he has contribut
 
 - Augmented Reality PFP Template by [Sutu Eats Flies](https://www.sutueatsflies.com/)
 
-Sutu has developed a tmplate that will empower artists on Tezos to easlily create PFPs using this standard. We would support and maintain this powerful tool.
-
-
-
+Sutu has developed a template that will empower artists on Tezos to easily create PFPs using this standard. We would support and maintain this powerful tool.
